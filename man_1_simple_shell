@@ -67,6 +67,10 @@ total 92
 -rw-r--r-- 1 maycolroa maycolroa   359 Dec  8 14:37 shell.c
 -rw-r--r-- 1 maycolroa maycolroa   473 Dec  8 19:25 tokenizer.c
 
+#holbies$ pwd
+
+/home/maycolroa/holbertonschool/simple_shell
+
 EXAMPLE OF ERROR
 
 #holbies$ LS
@@ -77,5 +81,5 @@ cd: not found
 
 
  AUTHOR(S)
-* George Okello < >
-* Kamila Gojobe <karukamila@gmail.com>
+* Alvin Karanja (https://github.com/Alvin-Karanja)
+* Odhiambo Edithmary A Edithmary
